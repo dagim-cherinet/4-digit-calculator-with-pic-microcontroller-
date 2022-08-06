@@ -1,6 +1,6 @@
 # 4-digit Calculator with PIC16f877a Microcontroller
 
-## This project is focused on design and implementation of a microcontroller based calculator which will perform arithmetic operation using a 4x4 keypad and a 16x2 Liquid Crystal Display (LCD). The calculator is limited to four digit input from 0000 up to 9999. This allows the program for the arithmetic operations to be simple, while the same principles can be extended to any-digit calculations.
+### This project is focused on design and implementation of a microcontroller based calculator which will perform arithmetic operation using a 4x4 keypad and a 16x2 Liquid Crystal Display (LCD). The calculator is limited to four digit input from 0000 up to 9999. This allows the program for the arithmetic operations to be simple, while the same principles can be extended to any-digit calculations.
 
 ## Circuit diagram
 ![circuit diagram](https://user-images.githubusercontent.com/80765887/183245079-c0a67c32-d47d-4c6f-9cf1-1ab36d2992be.png)
